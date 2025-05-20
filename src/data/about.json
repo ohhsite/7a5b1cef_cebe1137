@@ -1,0 +1,18 @@
+{
+  "title": "O mnie",
+  "name": "mgr Anna Kowalska",
+  "credentials": "Psycholog, Psychoterapeuta",
+  "imageUrl": "content/psycholozka.webp",
+  "imageAlt": "mgr Anna Kowalska - Psycholog, Psychoterapeuta",
+  "description": [
+    "Jestem psychologiem i psychoterapeutą z ponad 10-letnim doświadczeniem w pracy z osobami doświadczającymi trudności emocjonalnych i problemów w relacjach.",
+    "Ukończyłam studia psychologiczne na Uniwersytecie Warszawskim oraz czteroletnie szkolenie z zakresu psychoterapii poznawczo-behawioralnej. Posiadam certyfikaty Polskiego Towarzystwa Terapii Poznawczej i Behawioralnej oraz European Association for Behavioural and Cognitive Therapies.",
+    "W swojej pracy kieruję się przede wszystkim empatią i zrozumieniem. Wierzę, że każdy człowiek ma w sobie zasoby potrzebne do pokonania trudności - czasem potrzebuje jedynie wsparcia w ich odkryciu i wykorzystaniu.",
+    "Stale poszerzam swoją wiedzę poprzez udział w konferencjach, warsztatach i superwizjach. Pracuję zgodnie z zasadami etyki zawodowej, zapewniając pełną poufność i profesjonalizm."
+  ],
+  "badges": [
+    "10+ lat doświadczenia",
+    "Terapia poznawczo-behawioralna",
+    "Certyfikowany specjalista"
+  ]
+}

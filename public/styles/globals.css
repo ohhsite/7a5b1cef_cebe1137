@@ -1,0 +1,93 @@
+/* styles/globals.css */
+
+/* Najpierw umieszczamy wszystkie importy */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+/* Dodaj te zmienne CSS do głównego pliku stylów */
+:root {
+  --color-primary: #5b3016; /* Domyślny kolor */
+  --color-secondary: #844620;
+  --color-accent: #ad5b2a;
+  --color-dark: #333333;
+  --color-light: #f5f5f5;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-text-gray: #999999;
+  --color-background: #ffffff;
+  --color-background-light: #f9f9f9;
+  --color-background-dark: #f0f0f0;
+}
+
+.section-title {
+    position: relative;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 1.2;
+    color: var(--color-text-primary);
+    text-decoration: none !important;
+  }
+  
+  .section-title::after {
+    content: "";
+    position: absolute;
+    bottom: -0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 4rem;
+    height: 0.25rem;
+    background-color: var(--color-primary) !important;
+    border-radius: 0.25rem;
+  }
+  
+  
+
+/* Klasy kolorów wykorzystujące zmienne CSS */
+.text-primary {
+  color: var(--color-primary);
+}
+
+.text-secondary {
+  color: var(--color-secondary);
+}
+
+.text-accent {
+  color: var(--color-accent);
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+.bg-secondary {
+  background-color: var(--color-secondary);
+}
+
+.bg-accent {
+  background-color: var(--color-accent);
+}
+
+.border-primary {
+  border-color: var(--color-primary);
+}
+
+.border-secondary {
+  border-color: var(--color-secondary);
+}
+
+.border-accent {
+  border-color: var(--color-accent);
+}
+
+/* Klasy hover */
+.hover-text-primary:hover {
+  color: var(--color-primary);
+}
+
+.hover-bg-primary:hover {
+  background-color: var(--color-primary);
+}
+
+/* Następnie dodaj skrypt JS, który będzie aktualizował te zmienne na podstawie config.json */

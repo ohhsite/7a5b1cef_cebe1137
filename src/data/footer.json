@@ -1,0 +1,25 @@
+{
+  "copyright": "© 2025 mgr Anna Kowalska. Wszelkie prawa zastrzeżone.",
+  "links": [
+    {
+      "text": "Polityka prywatności",
+      "url": "/privacy-policy"
+    },
+    {
+      "text": "Polityka cookies",
+      "url": "/cookie-policy"
+    }
+  ],
+  "crisisHelp": {
+    "title": "Pomoc w sytuacjach kryzysowych",
+    "description": "Jeśli znajdujesz się w sytuacji kryzysowej, zadzwoń na bezpłatny telefon zaufania:",
+    "phoneNumber": "116 123",
+    "availabilityText": "Telefon czynny 24/7"
+  },
+  "cookieConsent": {
+    "message": "Ta strona używa plików cookies, aby zapewnić najlepsze doświadczenia użytkownika.",
+    "acceptButtonText": "Akceptuję",
+    "moreInfoText": "Więcej informacji",
+    "moreInfoUrl": "/cookie-policy"
+  }
+}

@@ -1,0 +1,32 @@
+
+{
+  "title": "Blog / Artykuły",
+  "description": "Materiały edukacyjne i artykuły na tematy związane ze zdrowiem psychicznym:",
+  "readMoreText": "Czytaj więcej",
+  "articles": [
+    {
+      "title": "Jak radzić sobie z przewlekłym stresem?",
+      "excerpt": "W dzisiejszych czasach stres stał się nieodłącznym elementem życia wielu osób. Długotrwałe napięcie może jednak prowadzić do poważnych konsekwencji zdrowotnych...",
+      "date": "2023-06-15",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "imageAlt": "Osoba medytująca na tle spokojnego krajobrazu",
+      "url": "#"
+    },
+    {
+      "title": "Depresja - cichy wróg, którego warto poznać",
+      "excerpt": "Depresja dotyka coraz więcej osób, ale wciąż pozostaje tematem tabu. Poznaj jej objawy, metody leczenia i sposoby wsparcia bliskiej osoby...",
+      "date": "2023-05-20",
+      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+      "imageAlt": "Symboliczne przedstawienie stanu depresyjnego",
+      "url": "#"
+    },
+    {
+      "title": "Komunikacja w związku - klucz do zdrowej relacji",
+      "excerpt": "Umiejętność efektywnej komunikacji to podstawa satysfakcjonującego związku. Dowiedz się, jak rozmawiać, aby budować bliskość i rozwiązywać konflikty...",
+      "date": "2023-04-10",
+      "imageUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843",
+      "imageAlt": "Para rozmawiająca w przyjaznej atmosferze",
+      "url": "#"
+    }
+  ]
+}

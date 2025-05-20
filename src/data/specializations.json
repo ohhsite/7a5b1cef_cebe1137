@@ -1,0 +1,44 @@
+[
+  {
+    "id": "depression",
+    "title": "Depresja",
+    "description": "Wsparcie w walce z objawami depresyjnymi, odzyskanie radości życia i motywacji",
+    "icon": "Brain",
+    "order": 1
+  },
+  {
+    "id": "anxiety",
+    "title": "Zaburzenia lękowe",
+    "description": "Skuteczne metody radzenia sobie z lękami, atakami paniki i fobiami",
+    "icon": "Shield",
+    "order": 2
+  },
+  {
+    "id": "relationships",
+    "title": "Problemy w relacjach",
+    "description": "Pomoc w budowaniu zdrowych relacji z bliskimi, partnerami i w środowisku zawodowym",
+    "icon": "Users",
+    "order": 3
+  },
+  {
+    "id": "youth",
+    "title": "Wsparcie dla młodzieży",
+    "description": "Specjalistyczna pomoc dla nastolatków w okresie dojrzewania i młodych dorosłych",
+    "icon": "Heart",
+    "order": 4
+  },
+  {
+    "id": "couples",
+    "title": "Terapia par",
+    "description": "Rozwiązywanie konfliktów i wzmacnianie więzi w związkach",
+    "icon": "Heart",
+    "order": 5
+  },
+  {
+    "id": "burnout",
+    "title": "Wypalenie zawodowe",
+    "description": "Strategie przeciwdziałania wypaleniu i odzyskania satysfakcji z pracy",
+    "icon": "Flame",
+    "order": 6
+  }
+]

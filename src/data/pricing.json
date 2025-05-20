@@ -1,0 +1,51 @@
+{
+  "title": "Cennik",
+  "subtitle": "Przejrzyste informacje o kosztach terapii:",
+  "services": [
+    {
+      "id": "initial",
+      "title": "Konsultacja wstępna",
+      "price": 200,
+      "currency": "zł",
+      "duration": 50,
+      "durationUnit": "minut",
+      "description": "Pierwsze spotkanie, poznanie problemu i ustalenie planu terapii"
+    },
+    {
+      "id": "individual",
+      "title": "Sesja indywidualna",
+      "price": 200,
+      "currency": "zł",
+      "duration": 50,
+      "durationUnit": "minut",
+      "description": "Regularna sesja terapeutyczna dla jednej osoby"
+    },
+    {
+      "id": "couples",
+      "title": "Terapia par",
+      "price": 250,
+      "currency": "zł",
+      "duration": 80,
+      "durationUnit": "minut",
+      "description": "Sesja dla par pracujących nad relacją"
+    },
+    {
+      "id": "online",
+      "title": "Sesja online",
+      "price": 180,
+      "currency": "zł",
+      "duration": 50,
+      "durationUnit": "minut",
+      "description": "Spotkanie zdalne przez wideokonferencję"
+    }
+  ],
+  "paymentMethods": [
+    "Gotówka",
+    "Przelew bankowy",
+    "BLIK"
+  ],
+  "notes": [
+    "Płatność przed lub po sesji",
+    "W przypadku odwołania sesji krócej niż 24h przed terminem, pobierana jest opłata w wysokości 50% ceny sesji"
+  ]
+}

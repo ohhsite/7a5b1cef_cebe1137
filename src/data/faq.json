@@ -1,0 +1,36 @@
+{
+  "title": "Najczęściej zadawane pytania",
+  "subtitle": "Odpowiedzi na pytania, które często pojawiają się przed rozpoczęciem terapii:",
+  "questions": [
+    {
+      "id": "therapy-duration",
+      "question": "Jak długo trwa terapia?",
+      "answer": "Długość terapii zależy od indywidualnych potrzeb i celów. Niektórzy klienci zauważają znaczącą poprawę już po kilku sesjach, inni korzystają z terapii długoterminowej. Podczas pierwszych spotkań omówimy przewidywany czas trwania terapii w Twoim przypadku."
+    },
+    {
+      "id": "online-therapy",
+      "question": "Czy terapia online jest równie skuteczna jak stacjonarna?",
+      "answer": "Tak, badania potwierdzają, że terapia online może być równie skuteczna jak stacjonarna. Oferuję sesje online przez bezpieczne platformy, zapewniające poufność i jakość połączenia. Jest to wygodna alternatywa dla osób, które z różnych powodów preferują taką formę kontaktu."
+    },
+    {
+      "id": "therapy-form-change",
+      "question": "Czy mogę zmienić formę terapii w trakcie jej trwania?",
+      "answer": "Oczywiście. Możemy elastycznie dostosowywać formę terapii (stacjonarną lub online) do Twoich aktualnych potrzeb i możliwości."
+    },
+    {
+      "id": "confidentiality",
+      "question": "Czy terapia jest objęta tajemnicą zawodową?",
+      "answer": "Tak, jako psycholog i psychoterapeuta jestem zobowiązana do zachowania poufności. Wszystko, co dzieje się podczas sesji, pozostaje objęte tajemnicą zawodową, z wyjątkiem sytuacji zagrożenia życia lub zdrowia."
+    },
+    {
+      "id": "first-session-prep",
+      "question": "Jak się przygotować do pierwszej sesji?",
+      "answer": "Nie ma potrzeby specjalnego przygotowania. Warto zastanowić się, czego oczekujesz od terapii i jakie są Twoje główne trudności, ale omówimy to również podczas spotkania. Przyjdź po prostu otwarty/a na rozmowę."
+    },
+    {
+      "id": "doctor-referral",
+      "question": "Czy potrzebuję skierowania od lekarza?",
+      "answer": "Nie, nie jest wymagane skierowanie od lekarza. Możesz umówić się na konsultację bezpośrednio ze mną."
+    }
+  ]
+}

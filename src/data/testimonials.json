@@ -1,0 +1,26 @@
+{
+  "title": "Opinie klientów",
+  "description": "Co mówią osoby, które skorzystały z mojej pomocy:",
+  "googleMapsLink": "https://maps.google.com",
+  "showRating": true,
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Marta K.",
+      "rating": 5,
+      "text": "Pani Anna to wspaniały terapeuta. Dzięki jej wsparciu udało mi się pokonać długotrwałe problemy z lękiem. Sesje były zawsze pełne zrozumienia i konkretnych wskazówek. Polecam!"
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Piotr L.",
+      "rating": 5,
+      "text": "Terapia u mgr Kowalskiej pomogła mi w trudnym okresie rozstania. Profesjonalne podejście, ciepła atmosfera i skuteczne metody pracy. Dzięki!"
+    },
+    {
+      "id": "testimonial-3",
+      "name": "Alicja S.",
+      "rating": 5,
+      "text": "Moja córka przeszła znaczącą pozytywną zmianę dzięki wsparciu Pani Anny. Jako rodzic jestem ogromnie wdzięczna za profesjonalną i pełną empatii pomoc."
+    }
+  ]
+}

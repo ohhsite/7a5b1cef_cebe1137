@@ -1,0 +1,41 @@
+{
+  "title": "Jak pracuję",
+  "description": "Terapia to proces, który wymaga zaangażowania obu stron. Oto jak wygląda współpraca ze mną:",
+  "steps": [
+    {
+      "id": "first-contact",
+      "title": "Pierwszy kontakt",
+      "description": "Możesz się ze mną skontaktować telefonicznie, mailowo lub poprzez formularz na stronie. Odpowiem na Twoje pytania i umówimy się na pierwsze spotkanie.",
+      "icon": "Phone",
+      "order": 1
+    },
+    {
+      "id": "initial-consultation",
+      "title": "Konsultacja wstępna",
+      "description": "Pierwsze spotkanie to czas na poznanie się, omówienie Twoich potrzeb i ustalenie, czy moje podejście będzie dla Ciebie odpowiednie.",
+      "icon": "CalendarPlus",
+      "order": 2
+    },
+    {
+      "id": "therapy-plan",
+      "title": "Plan terapii",
+      "description": "Wspólnie ustalimy cele terapeutyczne i plan działania, dostosowany do Twoich indywidualnych potrzeb i możliwości.",
+      "icon": "ClipboardList",
+      "order": 3
+    },
+    {
+      "id": "regular-sessions",
+      "title": "Regularne sesje",
+      "description": "Sesje terapeutyczne trwają 50 minut i odbywają się zazwyczaj raz w tygodniu, w gabinecie lub online, w zależności od Twoich preferencji.",
+      "icon": "Clock",
+      "order": 4
+    },
+    {
+      "id": "progress-evaluation",
+      "title": "Ewaluacja postępów",
+      "description": "Regularnie będziemy omawiać postępy i w razie potrzeby modyfikować plan terapeutyczny, aby jak najlepiej odpowiadał na Twoje potrzeby.",
+      "icon": "BarChart",
+      "order": 5
+    }
+  ]
+}

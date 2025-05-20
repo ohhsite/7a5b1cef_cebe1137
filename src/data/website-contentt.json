@@ -1,0 +1,282 @@
+
+{
+  "metadata": {
+    "siteName": "Empathy Online Therapy",
+    "siteDescription": "Profesjonalna pomoc psychologiczna w Warszawie. Oferujemy wsparcie w walce z depresją, lękami, problemami w relacjach i innymi trudnościami.",
+    "cityName": "Warszawa",
+    "phoneNumber": "+48 123 456 789",
+    "email": "kontakt@empathy-therapy.pl",
+    "address": "ul. Terapeutyczna 42, 00-001 Warszawa",
+    "workingHours": "Poniedziałek - Piątek: 9:00 - 20:00",
+    "crisisHelplineNumber": "116 123",
+    "socialMedia": {
+      "facebook": "https://facebook.com/empathy-therapy",
+      "instagram": "https://instagram.com/empathy-therapy",
+      "linkedin": "https://linkedin.com/in/empathy-therapy"
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": "#4A90E2",
+      "primaryLight": "#6AADE4",
+      "secondary": "#67B26F",
+      "secondaryLight": "#4ca2cd",
+      "accent": "#F9A826",
+      "text": "#333333",
+      "textLight": "#666666",
+      "background": "#FFFFFF",
+      "backgroundLight": "#F5F5F5",
+      "backgroundDark": "#E0E0E0"
+    },
+    "fonts": {
+      "heading": "Montserrat, sans-serif",
+      "body": "Open Sans, sans-serif"
+    }
+  },
+  "heroSection": {
+    "headline": "Zaufaj doświadczeniu. Skuteczna pomoc psychologiczna.",
+    "subheadline": "Profesjonalne wsparcie psychologiczne w sercu Warszawy",
+    "ctaText": "Umów konsultację",
+    "ctaUrl": "#contact",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "imageAlt": "Spokojny krajobraz symbolizujący równowagę psychiczną"
+  },
+  "aboutSection": {
+    "title": "O mnie",
+    "name": "mgr Anna Kowalska",
+    "credentials": "Psycholog, Psychoterapeuta",
+    "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+    "imageAlt": "mgr Anna Kowalska - Psycholog, Psychoterapeuta",
+    "description": [
+      "Jestem psychologiem i psychoterapeutą z ponad 10-letnim doświadczeniem w pracy z osobami doświadczającymi trudności emocjonalnych i problemów w relacjach.",
+      "Ukończyłam studia psychologiczne na Uniwersytecie Warszawskim oraz czteroletnie szkolenie z zakresu psychoterapii poznawczo-behawioralnej. Posiadam certyfikaty Polskiego Towarzystwa Terapii Poznawczej i Behawioralnej oraz European Association for Behavioural and Cognitive Therapies.",
+      "W swojej pracy kieruję się przede wszystkim empatią i zrozumieniem. Wierzę, że każdy człowiek ma w sobie zasoby potrzebne do pokonania trudności - czasem potrzebuje jedynie wsparcia w ich odkryciu i wykorzystaniu.",
+      "Stale poszerzam swoją wiedzę poprzez udział w konferencjach, warsztatach i superwizjach. Pracuję zgodnie z zasadami etyki zawodowej, zapewniając pełną poufność i profesjonalizm."
+    ]
+  },
+  "specializationsSection": {
+    "title": "Specjalizacje",
+    "description": "Oferuję profesjonalną pomoc w następujących obszarach:",
+    "specializations": [
+      {
+        "title": "Depresja",
+        "description": "Wsparcie w walce z objawami depresyjnymi, odzyskanie radości życia i motywacji",
+        "icon": "Brain"
+      },
+      {
+        "title": "Zaburzenia lękowe",
+        "description": "Skuteczne metody radzenia sobie z lękami, atakami paniki i fobiami",
+        "icon": "Shield"
+      },
+      {
+        "title": "Problemy w relacjach",
+        "description": "Pomoc w budowaniu zdrowych relacji z bliskimi, partnerami i w środowisku zawodowym",
+        "icon": "Users"
+      },
+      {
+        "title": "Wsparcie dla młodzieży",
+        "description": "Specjalistyczna pomoc dla nastolatków w okresie dojrzewania i młodych dorosłych",
+        "icon": "Heart"
+      },
+      {
+        "title": "Terapia par",
+        "description": "Rozwiązywanie konfliktów i wzmacnianie więzi w związkach",
+        "icon": "Heart"
+      },
+      {
+        "title": "Wypalenie zawodowe",
+        "description": "Strategie przeciwdziałania wypaleniu i odzyskania satysfakcji z pracy",
+        "icon": "Flame"
+      }
+    ]
+  },
+  "processSection": {
+    "title": "Jak pracuję",
+    "description": "Terapia to proces, który wymaga zaangażowania obu stron. Oto jak wygląda współpraca ze mną:",
+    "steps": [
+      {
+        "title": "Pierwszy kontakt",
+        "description": "Możesz się ze mną skontaktować telefonicznie, mailowo lub poprzez formularz na stronie. Odpowiem na Twoje pytania i umówimy się na pierwsze spotkanie.",
+        "icon": "Phone"
+      },
+      {
+        "title": "Konsultacja wstępna",
+        "description": "Pierwsze spotkanie to czas na poznanie się, omówienie Twoich potrzeb i ustalenie, czy moje podejście będzie dla Ciebie odpowiednie.",
+        "icon": "CalendarPlus"
+      },
+      {
+        "title": "Plan terapii",
+        "description": "Wspólnie ustalimy cele terapeutyczne i plan działania, dostosowany do Twoich indywidualnych potrzeb i możliwości.",
+        "icon": "ClipboardList"
+      },
+      {
+        "title": "Regularne sesje",
+        "description": "Sesje terapeutyczne trwają 50 minut i odbywają się zazwyczaj raz w tygodniu, w gabinecie lub online, w zależności od Twoich preferencji.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Ewaluacja postępów",
+        "description": "Regularnie będziemy omawiać postępy i w razie potrzeby modyfikować plan terapeutyczny, aby jak najlepiej odpowiadał na Twoje potrzeby.",
+        "icon": "BarChart"
+      }
+    ]
+  },
+  "testimonialsSection": {
+    "title": "Opinie klientów",
+    "description": "Co mówią osoby, które skorzystały z mojej pomocy:",
+    "googleMapsLink": "https://maps.google.com",
+    "testimonials": [
+      {
+        "name": "Marta K.",
+        "rating": 5,
+        "text": "Pani Anna to wspaniały terapeuta. Dzięki jej wsparciu udało mi się pokonać długotrwałe problemy z lękiem. Sesje były zawsze pełne zrozumienia i konkretnych wskazówek. Polecam!"
+      },
+      {
+        "name": "Piotr L.",
+        "rating": 5,
+        "text": "Terapia u mgr Kowalskiej pomogła mi w trudnym okresie rozstania. Profesjonalne podejście, ciepła atmosfera i skuteczne metody pracy. Dzięki!"
+      },
+      {
+        "name": "Alicja S.",
+        "rating": 5,
+        "text": "Moja córka przeszła znaczącą pozytywną zmianę dzięki wsparciu Pani Anny. Jako rodzic jestem ogromnie wdzięczna za profesjonalną i pełną empatii pomoc."
+      }
+    ]
+  },
+  "pricingSection": {
+    "title": "Cennik",
+    "description": "Przejrzyste informacje o kosztach terapii:",
+    "services": [
+      {
+        "name": "Konsultacja wstępna",
+        "price": "200 zł",
+        "duration": "50 minut"
+      },
+      {
+        "name": "Sesja indywidualna",
+        "price": "200 zł",
+        "duration": "50 minut"
+      },
+      {
+        "name": "Terapia par",
+        "price": "250 zł",
+        "duration": "80 minut"
+      },
+      {
+        "name": "Sesja online",
+        "price": "180 zł",
+        "duration": "50 minut"
+      }
+    ],
+    "paymentMethods": [
+      "Płatność gotówką",
+      "Przelew bankowy",
+      "BLIK"
+    ],
+    "additionalInfo": "W przypadku odwołania wizyty proszę o kontakt najpóźniej 24 godziny przed planowaną sesją."
+  },
+  "faqSection": {
+    "title": "Najczęściej zadawane pytania",
+    "description": "Odpowiedzi na pytania, które często pojawiają się przed rozpoczęciem terapii:",
+    "questions": [
+      {
+        "question": "Jak długo trwa terapia?",
+        "answer": "Długość terapii zależy od indywidualnych potrzeb i celów. Niektórzy klienci zauważają znaczącą poprawę już po kilku sesjach, inni korzystają z terapii długoterminowej. Podczas pierwszych spotkań omówimy przewidywany czas trwania terapii w Twoim przypadku."
+      },
+      {
+        "question": "Czy terapia online jest równie skuteczna jak stacjonarna?",
+        "answer": "Tak, badania potwierdzają, że terapia online może być równie skuteczna jak stacjonarna. Oferuję sesje online przez bezpieczne platformy, zapewniające poufność i jakość połączenia. Jest to wygodna alternatywa dla osób, które z różnych powodów preferują taką formę kontaktu."
+      },
+      {
+        "question": "Czy mogę zmienić formę terapii w trakcie jej trwania?",
+        "answer": "Oczywiście. Możemy elastycznie dostosowywać formę terapii (stacjonarną lub online) do Twoich aktualnych potrzeb i możliwości."
+      },
+      {
+        "question": "Czy terapia jest objęta tajemnicą zawodową?",
+        "answer": "Tak, jako psycholog i psychoterapeuta jestem zobowiązana do zachowania poufności. Wszystko, co dzieje się podczas sesji, pozostaje objęte tajemnicą zawodową, z wyjątkiem sytuacji zagrożenia życia lub zdrowia."
+      },
+      {
+        "question": "Jak się przygotować do pierwszej sesji?",
+        "answer": "Nie ma potrzeby specjalnego przygotowania. Warto zastanowić się, czego oczekujesz od terapii i jakie są Twoje główne trudności, ale omówimy to również podczas spotkania. Przyjdź po prostu otwarty/a na rozmowę."
+      },
+      {
+        "question": "Czy potrzebuję skierowania od lekarza?",
+        "answer": "Nie, nie jest wymagane skierowanie od lekarza. Możesz umówić się na konsultację bezpośrednio ze mną."
+      }
+    ]
+  },
+  "blogSection": {
+    "title": "Blog / Artykuły",
+    "description": "Materiały edukacyjne i artykuły na tematy związane ze zdrowiem psychicznym:",
+    "readMoreText": "Czytaj więcej",
+    "articles": [
+      {
+        "title": "Jak radzić sobie z przewlekłym stresem?",
+        "excerpt": "W dzisiejszych czasach stres stał się nieodłącznym elementem życia wielu osób. Długotrwałe napięcie może jednak prowadzić do poważnych konsekwencji zdrowotnych...",
+        "date": "2023-06-15",
+        "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "imageAlt": "Osoba medytująca na tle spokojnego krajobrazu",
+        "url": "#"
+      },
+      {
+        "title": "Depresja - cichy wróg, którego warto poznać",
+        "excerpt": "Depresja dotyka coraz więcej osób, ale wciąż pozostaje tematem tabu. Poznaj jej objawy, metody leczenia i sposoby wsparcia bliskiej osoby...",
+        "date": "2023-05-20",
+        "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
+        "imageAlt": "Symboliczne przedstawienie stanu depresyjnego",
+        "url": "#"
+      },
+      {
+        "title": "Komunikacja w związku - klucz do zdrowej relacji",
+        "excerpt": "Umiejętność efektywnej komunikacji to podstawa satysfakcjonującego związku. Dowiedz się, jak rozmawiać, aby budować bliskość i rozwiązywać konflikty...",
+        "date": "2023-04-10",
+        "imageUrl": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843",
+        "imageAlt": "Para rozmawiająca w przyjaznej atmosferze",
+        "url": "#"
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Kontakt",
+    "description": "Skontaktuj się ze mną, aby umówić wizytę lub zadać pytanie:",
+    "formFields": {
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "phone": "Numer telefonu",
+      "subject": "Temat",
+      "message": "Wiadomość",
+      "gdprCheckbox": "Wyrażam zgodę na przetwarzanie moich danych osobowych zgodnie z polityką prywatności.",
+      "submitButton": "Wyślij wiadomość"
+    },
+    "calendlyLink": "https://calendly.com/empathy-therapy/consultation",
+    "appointmentButtonText": "Zarezerwuj termin online",
+    "contactInfo": {
+      "address": "ul. Terapeutyczna 42, 00-001 Warszawa",
+      "phone": "+48 123 456 789",
+      "email": "kontakt@empathy-therapy.pl"
+    }
+  },
+  "footerSection": {
+    "copyright": "© 2023 Empathy Online Therapy. Wszelkie prawa zastrzeżone.",
+    "privacyPolicy": {
+      "text": "Polityka prywatności",
+      "url": "/privacy-policy"
+    },
+    "cookiePolicy": {
+      "text": "Polityka cookies",
+      "url": "/cookie-policy"
+    },
+    "crisisHelpSection": {
+      "title": "Pomoc w sytuacjach kryzysowych",
+      "description": "Jeśli znajdujesz się w sytuacji kryzysowej, zadzwoń na bezpłatny telefon zaufania:",
+      "phoneNumber": "116 123",
+      "availabilityText": "Telefon czynny 24/7"
+    }
+  },
+  "cookieConsentBanner": {
+    "message": "Ta strona używa plików cookies, aby zapewnić najlepsze doświadczenia użytkownika.",
+    "acceptButtonText": "Akceptuję",
+    "moreInfoText": "Więcej informacji",
+    "moreInfoUrl": "/cookie-policy"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Kontakt",
+  "description": "Skontaktuj się ze mną, aby umówić wizytę lub zadać pytanie:",
+  "formFields": {
+    "name": {
+      "label": "Imię i nazwisko",
+      "placeholder": "Wpisz swoje imię i nazwisko",
+      "required": true
+    },
+    "email": {
+      "label": "Adres e-mail",
+      "placeholder": "Wpisz swój adres e-mail",
+      "required": true
+    },
+    "phone": {
+      "label": "Numer telefonu",
+      "placeholder": "Wpisz swój numer telefonu",
+      "required": false
+    },
+    "subject": {
+      "label": "Temat",
+      "placeholder": "Czego dotyczy Twoja wiadomość?",
+      "required": false
+    },
+    "message": {
+      "label": "Wiadomość",
+      "placeholder": "Opisz swoją sprawę...",
+      "required": true
+    },
+    "gdprCheckbox": {
+      "label": "Wyrażam zgodę na przetwarzanie moich danych osobowych zgodnie z polityką prywatności.",
+      "required": true
+    }
+  },
+  "submitButton": "Wyślij wiadomość",
+  "calendlyLink": "https://calendly.com/empathy-therapy/consultation",
+  "appointmentButtonText": "Zarezerwuj termin online",
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=..."
+}
